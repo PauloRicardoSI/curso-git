@@ -5,9 +5,4 @@ Mais  uma inserção para teste
 
 Curso bem interessante.......
 
-Mais uma inserção
-
-
-Voltando.
-
-testando
+Deletando uma carreira
